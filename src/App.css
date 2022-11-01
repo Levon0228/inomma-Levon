@@ -1,0 +1,9 @@
+.App {
+  min-height: 100vh;
+  text-align: center;
+  background-color:  #00909E;
+  padding: 20px 60px;
+}
+.ant-menu:not(.ant-menu-horizontal) .ant-menu-item-selected {
+  background-color: #f0f2f5;;
+}

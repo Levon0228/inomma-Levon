@@ -1,0 +1,12 @@
+
+.col {
+  padding: 8px;
+  height: 100%;
+}
+
+  .addMore {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+

@@ -1,0 +1,22 @@
+.wrapper {
+  height: 100%;
+}
+.empty {
+  height: 90%;
+  min-height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.buttonWrapper {
+  text-align: right;
+}
+
+.table {
+  margin-bottom: 16px;
+}
+
+.fillRandom {
+  margin-right: 10px;
+}
